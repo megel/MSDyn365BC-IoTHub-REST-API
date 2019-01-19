@@ -2,6 +2,8 @@
 
 IoT is an important part of our current technology. With **Azure IoT Hub** we are able to start as quick as possible. This platform allows to connect, configure and manage IoT Devices, IoT Edge Devices, Device Twins, Configurations and much more.
 
+![MSDyn365BC-IoTHub-REST-API](docs/iothubrestapi.png)
+
 My example show the integration of IoT Hub functionality in **Microsoft Dynamics 365 Business Central** by using the **IoT Hub Rest API**. *Well you might do this in CAL or C/Side*, but I want to show the future and with MSDyn365BC I use the new development language **Microsoft AL**!
 
 IoT Hub **Rest API** means, we have to send and receive Http-Messages and content. For this Microsoft AL introduced several new object types and some are:
