@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="IoTHub-REST-API">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1584920433 - Field 2972353492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IoT Hub Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Device - Field IoT Hub Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1584920433 - Field 2218964073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IoT Device ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Device - Field IoT Device ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1584920433 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Device - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 667230717 - Field 2972353492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IoT Hub Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Device Status - Field IoT Hub Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 667230717 - Field 2218964073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IoT Device ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Device Status - Field IoT Device ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 667230717 - Field 4086749971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connection State</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Device Status - Field Connection State - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 667230717 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Device Status - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 667230717 - Field 388317552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Updated Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Device Status - Field Status Updated Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 667230717 - Field 4225406566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Activity Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Device Status - Field Last Activity Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 667230717 - Field 3726431358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cloud To Device Message Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Device Status - Field Cloud To Device Message Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 743288044 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Hub - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 743288044 - Field 1754313973 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IoT Hub Uri</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Hub - Field IoT Hub Uri - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 743288044 - Field 1641735692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME IoT Hub - Field Authorization Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4232008487 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IoT Device List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT Device List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4232008487 - Action 504801858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import from IoT Hub</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT Device List - Action ImportDevices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4232008487 - Action 1655332902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable Device</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT Device List - Action EnableDevices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4232008487 - Action 1502373385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disable Device</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT Device List - Action DisableDevices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4232008487 - Action 3814998315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Device Twin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT Device List - Action GetDevicesTwin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2386028259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IoT-Hub List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT Hubs List - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
